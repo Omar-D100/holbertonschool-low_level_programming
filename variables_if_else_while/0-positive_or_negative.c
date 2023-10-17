@@ -1,9 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
 * main - assign a random number to the variable
-* Return : none ou (0) *
+* Return : none ou (0) 
 */
 
 int main(void)
